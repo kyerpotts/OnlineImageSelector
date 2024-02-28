@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1036702745750",
+    "project_id": "onlineimageselector",
+    "storage_bucket": "onlineimageselector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036702745750:android:4cacd33145660f801b2eb7",
+        "android_client_info": {
+          "package_name": "curtin.edu.onlineimageselector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036702745750-f4bb3v1frr8597bm0ouv45m331bscjgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMxM-DMI0uNnqumJwHVEf37w3OB6imqhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036702745750-f4bb3v1frr8597bm0ouv45m331bscjgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

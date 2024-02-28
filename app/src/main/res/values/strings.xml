@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OnlineImageSelector</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="single">Single</string>
+    <string name="multi">Multi</string>
+    <string name="upload">Upload</string>
+    <string name="search">Search</string>
+    <string name="view_saved_images">View Saved Images</string>
+    <string name="image_selection">Image Selection</string>
+</resources>
